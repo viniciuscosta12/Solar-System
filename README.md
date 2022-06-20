@@ -10,7 +10,7 @@ The repository contains:
  ### Release builds
   If you just want to run the application, in the bin folder you will find executable files for x86/x64 OS
  
- ### Project for Visual Stuido
+ ### Project for Visual Studio
   If you want open project in Visual Studio, just open the file DiamondEngine.vcxproj
   
  ### Another way
@@ -40,19 +40,6 @@ The repository contains:
    #### SkyBox
    Press E to change skybox
    
- ## Built With
 
-* [OpenGL](https://www.opengl.org/) - The Graphics Library used
-* [GLAD](https://glad.dav1d.de/) - Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator used
-* [GLFW](https://www.glfw.org/) - Used to creating windows, contexts and surfaces, receiving input and events.
-* [FREETYPE](https://www.freetype.org/) - Used to render fonts.
-* [GLM](https://glm.g-truc.net/0.9.9/index.html) - Mathematics Library used
-
-## Resources
-
-* [Textures](https://cosmos-online.ru/textures) - Textures used
-* [Tutorials](https://learnopengl.com/) - Awesome tutorials about OpenGL
-* [Default SkyBox](http://www.custommapmakers.org/skyboxes.php) [Blue SkyBox](https://opengameart.org/content/space-skyboxes-0) - SkyBoxes used
-* [Font](https://www.fonts-online.ru/font/Korataki-Italic) - Font used ([Font author](http://typodermicfonts.com/))
 
 
