@@ -55,5 +55,4 @@ The repository contains:
 * [Default SkyBox](http://www.custommapmakers.org/skyboxes.php) [Blue SkyBox](https://opengameart.org/content/space-skyboxes-0) - SkyBoxes used
 * [Font](https://www.fonts-online.ru/font/Korataki-Italic) - Font used ([Font author](http://typodermicfonts.com/))
 
-## LICENSE
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/1kar/OpenGL-SolarSystem/blob/master/LICENSE) file for details
+
