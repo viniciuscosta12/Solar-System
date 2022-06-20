@@ -33,8 +33,7 @@ The repository contains:
    
    PRESS 1...8(for choose a planet) to enable PLANET CAM mode.<br>
    You can see a brief information about the planet in the upper left corner of the screen.
-   
-  ![alt text](https://i.ibb.co/q5xPK3R/3.png)
+
  
    #### SkyBox
    Press E to change skybox
