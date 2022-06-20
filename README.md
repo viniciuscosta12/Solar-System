@@ -1,4 +1,4 @@
-# OpenGL-SolarSystem
+# Solar System using OpenGL
 Simple 3D Solar System model created in C++/OpenGL/GLFW 
 
 ## Getting Started
