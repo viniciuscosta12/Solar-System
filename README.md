@@ -21,14 +21,13 @@ The repository contains:
    Press SPACE to enable STATIC CAM mode.<br>
    Use WASD to move around the solar system model, and use the mouse with the right button pressed to rotate the model.
       
-  ![alt text](https://i.ibb.co/Gx4xGKC/1.png)
   
    #### FREE CAM
    
    Press F1 to enable FREE CAM mode.<br>
    Use WASD and mouse to fly the solar system model.
    
-  ![alt text](https://i.ibb.co/y0PyR8P/2.png)
+  
   
    #### PLANET CAM
    
