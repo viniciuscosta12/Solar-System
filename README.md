@@ -40,6 +40,19 @@ The repository contains:
    #### SkyBox
    Press E to change skybox
    
+   #### Stop simulation
+   Press SPACE
+   
+   #### Play simulation
+   Press P
+
+   #### Remove orbits
+   Press B
+
+   #### Show orbits
+   Press N
+   
+   
 
 
 
