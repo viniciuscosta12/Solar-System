@@ -41,5 +41,3 @@ This project is an improvement with some modifications of the following project:
    #### Decrease velocity of planets
    Press Down
 
-   ## Note
-   Planets are in different vellocities.
