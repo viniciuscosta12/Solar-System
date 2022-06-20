@@ -1,6 +1,6 @@
 # Solar System using OpenGL
 Simple 3D Solar System model created in C++/OpenGL/GLFW 
-
+This project is a improvemnt of the following project: https://github.com/1kar/OpenGL-SolarSystem
   
   ## Preview
    #### STATIC CAM
