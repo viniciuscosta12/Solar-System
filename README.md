@@ -50,7 +50,10 @@ The repository contains:
    #### Show orbits
    Press N
    
+   #### Increase velocity of planets
+   Press UP
    
-
+   #### Decrease velocity of planets
+   Press Down
 
 
