@@ -16,7 +16,7 @@
   - E: muda a aparência do fundo
   - B: remove órbitas
   - N: mostra órbitas
-  - Space: para a simulação e alinha os planetas
+  - Space: paralisa a simulação e alinha os planetas
   - P: simulação roda novamente
   - Up: aumenta a velocidade dos planetas 
   - Down: diminui a velocidade dos planetas
