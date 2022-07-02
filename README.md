@@ -1,3 +1,5 @@
+# Equipe 7
+
 ## Pré-requisitos para execução
 - OpenGL
 - GLAD
