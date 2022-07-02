@@ -1,7 +1,14 @@
-# Simple 3D Solar System model created in C++/OpenGL/GLFW 
-The following project was used as reference: https://github.com/1kar/OpenGL-SolarSystem
-  
-  ## Preview
+## Pré-requisitos para execução
+- OpenGL
+- GLAD
+- GLFW
+- FREETYPE
+- GLM
+- Recomendação de IDE: Visual Studio
+
+
+
+## Funções Disponíveis para interação
    #### STATIC CAM
    Press SPACE to enable STATIC CAM mode.<br>
    Use WASD to move around the solar system model, and use the mouse with the right button pressed to rotate the model.
