@@ -1,4 +1,10 @@
 # Equipe 7
+- Rafael Benvindo
+- Raquel Sousa
+- Roberto Eduardo
+- Roberto Paulo
+- Vanessa Carvalho
+- Vinícius Teixeira
 
 ## Pré-requisitos para execução
 - OpenGL
