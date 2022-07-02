@@ -544,8 +544,8 @@ int main() {
 		model_venus = glm::translate(model_venus, glm::vec3(xx, 0.0f, zz));
 		PlanetsPositions[1] = glm::vec3(xx, 0.0f, zz);
 		model_venus = glm::rotate(model_venus, glm::radians(-90.0f), glm::vec3(1.0f, 0.0f, 0.f));
-		model_venus = glm::rotate(model_venus, glm::radians(-132.5f), glm::vec3(0.0f, 1.0f, 0.f));
-		model_venus = glm::rotate(model_venus, aux*(GLfloat)glfwGetTime() * glm::radians(-132.5f) * 0.012f, glm::vec3(0.0f, 0.0f, 1.f));
+		model_venus = glm::rotate(model_venus, glm::radians(132.5f), glm::vec3(0.0f, 1.0f, 0.f));
+		model_venus = glm::rotate(model_venus, aux*(GLfloat)glfwGetTime() * glm::radians(132.5f) * 0.012f, glm::vec3(0.0f, 0.0f, 1.f));
 		SimpleShader.setMat4("model", model_venus);
 		Venus.Draw();
 		/* VENUS */
@@ -564,7 +564,7 @@ int main() {
 		PlanetsPositions[2] = glm::vec3(xx, 0.0f, zz);
 		model_earth = glm::rotate(model_earth, glm::radians(-90.0f), glm::vec3(1.0f, 0.0f, 0.f));
 		model_earth = glm::rotate(model_earth, glm::radians(33.25f), glm::vec3(0.0f, 1.0f, 0.f));
-		model_earth = glm::rotate(model_earth, aux*(GLfloat)glfwGetTime() * glm::radians(-33.25f) * 2.0f, glm::vec3(0.0f, 0.0f, 1.f));
+		model_earth = glm::rotate(model_earth, aux*(GLfloat)glfwGetTime() * glm::radians(33.25f) * 2.0f, glm::vec3(0.0f, 0.0f, 1.f));
 		camera.LookAtPos = glm::vec3(model_earth[3][0], model_earth[3][1], model_earth[3][2]);
 		SimpleShader.setMat4("model", model_earth);
 		Earth.Draw();  
@@ -832,8 +832,8 @@ int main() {
 			break;
 
 		case 2:
-			viewX = sin(glfwGetTime() * PlanetSpeed * -0.75f) * 72*2.98;
-			viewZ = cos(glfwGetTime() * PlanetSpeed * -0.75f) * 72*2.98;
+			viewX = sin(glfwGetTime() * PlanetSpeed * -0.75f) * 72*2.95;
+			viewZ = cos(glfwGetTime() * PlanetSpeed * -0.75f) * 72*2.95;
 			viewPos = glm::vec3(viewX, 0.0f, viewZ);
 			view = glm::lookAt(viewPos, PlanetsPositions[1], glm::vec3(0.0f, 1.0f, 0.0f));
 			ShowName(TextShader);

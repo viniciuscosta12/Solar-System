@@ -9,4 +9,5 @@ C:\Users\ranes\Documents\SolarSys\main.cpp(259,24): warning C4838: conversion fr
 C:\Users\ranes\Documents\SolarSys\main.cpp(1023,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\ranes\Documents\SolarSys\main.cpp(1027,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\ranes\Documents\SolarSys\main.cpp(1041,20): warning C4305: '=': truncation from 'double' to 'float'
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\ranes\Documents\SolarSys\x64\Debug\glfw.pdb'; linking object as if no debug info
   DiamondEngine.vcxproj -> C:\Users\ranes\Documents\SolarSys\x64\Debug\DiamondEngine.exe
