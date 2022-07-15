@@ -1,10 +1,14 @@
-# Equipe 7
+# Sobre o projeto
+O projeto é uma simulação simples do Sistema Solar em C++ e a biblioteca de código aberto GLFW para gráficos 3D. Tem como objetivo a avaliação na disciplina de Computação Gráfica do curso de Engenharia da Computação da Universidade Federal do Ceará.
+A partir de uma base de pesquisas na internet, iniciou-se o projeto onde cada membro da equipe deu sua contribuição para construção do código. As principais dificuldades demonstradas pela equipe foi além da implementação do código, pois grande parte da equipe não tinha tido nenhum contato com C++ anteriormente, foi a execução da aplicação por conta da instalação de pacotes e programas específicos.
+
+## Equipe 7
 - Rafael Benvindo
 - Raquel Sousa
 - Roberto Eduardo
 - Roberto Paulo
 - Vanessa Carvalho
-- Vinícius Teixeira
+- Vinicius Teixeira
 
 ## Pré-requisitos para execução
 - OpenGL
